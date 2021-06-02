@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/catdad-experiments/heic-decode#readme",
   "dependencies": {
-    "libheif-js": "git+https://github.com/strukturag/libheif.git#v1.12.0"
+    "libheif-js": "git+https://github.com/strukturag/libheif.git#56c8a26"
   },
   "devDependencies": {
     "buffer-to-uint8array": "^1.1.0",
